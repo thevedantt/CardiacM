@@ -47,6 +47,9 @@ The model uses the following features:
 
 - Use all features from the heart dataset.
 - Implement better models (Random Forest, XGBoost, etc.).
+
+
+
 - Add UI for better accessibility (Streamlit or Flask).
 - Improve AI explanation prompt and validation.
 - Enable file upload for batch predictions.
